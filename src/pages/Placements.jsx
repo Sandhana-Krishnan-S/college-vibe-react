@@ -5,10 +5,10 @@ import { TrendingUp, Building2, Users, Award, Quote } from "lucide-react";
 
 const Placements = () => {
   const placementStats = [
-    { icon: TrendingUp, title: "95%", subtitle: "Placement Rate", color: "text-green-600" },
-    { icon: Users, title: "500+", subtitle: "Students Placed", color: "text-blue-600" },
-    { icon: Building2, title: "150+", subtitle: "Partner Companies", color: "text-purple-600" },
-    { icon: Award, title: "₹25 LPA", subtitle: "Highest Package", color: "text-orange-600" },
+    { icon: TrendingUp, title: "95%", subtitle: "Placement Rate", color: "text-primary" },
+    { icon: Users, title: "500+", subtitle: "Students Placed", color: "text-primary" },
+    { icon: Building2, title: "150+", subtitle: "Partner Companies", color: "text-primary" },
+    { icon: Award, title: "₹25 LPA", subtitle: "Highest Package", color: "text-secondary" },
   ];
 
   const topRecruiters = [
@@ -124,7 +124,7 @@ const Placements = () => {
                 <CardHeader>
                   <div className="flex items-center space-x-2 mb-2">
                     <Quote className="h-5 w-5 text-primary" />
-                    <Badge variant="outline" className="bg-green-100 text-green-800">
+                    <Badge variant="outline" className="bg-secondary/10 text-secondary border-secondary">
                       {testimonial.package}
                     </Badge>
                   </div>
