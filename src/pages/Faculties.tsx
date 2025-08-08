@@ -131,7 +131,7 @@ const Faculties = () => {
                     
                     <Badge 
                       variant="outline" 
-                      className={`mb-4 ${departmentColors[faculty.department] || 'text-primary border-primary'}`}
+                      className={`mb-4 ${departmentColors[faculty.department as keyof typeof departmentColors]}`}
                     >
                       {faculty.department}
                     </Badge>

@@ -58,7 +58,7 @@ const Departments = () => {
     },
   ];
 
-  const DepartmentCard = ({ department, stream }) => (
+  const DepartmentCard = ({ department, stream }: { department: any; stream: string }) => (
     <Card className="shadow-md hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
       <CardHeader>
         <div className="flex items-center space-x-3 mb-2">
