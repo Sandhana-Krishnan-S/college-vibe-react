@@ -66,9 +66,9 @@ const Contact = () => {
       icon: Mail,
       title: "Email Addresses",
       details: [
-        "info@siet.edu.in",
-        "admissions@siet.edu.in",
-        "placements@siet.edu.in"
+        "info@skct.edu.in",
+        "admissions@skct.edu.in",
+        "placements@skct.edu.in"
       ]
     },
     {
@@ -83,12 +83,12 @@ const Contact = () => {
   ];
 
   const departments = [
-    { name: "Admissions Office", phone: "+91-9876543210", email: "admissions@siet.edu.in" },
-    { name: "Academic Office", phone: "+91-755-2345679", email: "academic@siet.edu.in" },
-    { name: "Placement Cell", phone: "+91-9876543211", email: "placements@siet.edu.in" },
-    { name: "Student Affairs", phone: "+91-755-2345680", email: "students@siet.edu.in" },
-    { name: "Finance Office", phone: "+91-755-2345681", email: "finance@siet.edu.in" },
-    { name: "IT Support", phone: "+91-755-2345682", email: "it@siet.edu.in" }
+    { name: "Admissions Office", phone: "+91-9876543210", email: "admissions@skct.edu.in" },
+    { name: "Academic Office", phone: "+91-755-2345679", email: "academic@skct.edu.in" },
+    { name: "Placement Cell", phone: "+91-9876543211", email: "placements@skct.edu.in" },
+    { name: "Student Affairs", phone: "+91-755-2345680", email: "students@skct.edu.in" },
+    { name: "Finance Office", phone: "+91-755-2345681", email: "finance@skct.edu.in" },
+    { name: "IT Support", phone: "+91-755-2345682", email: "it@skct.edu.in" }
   ];
 
   return (

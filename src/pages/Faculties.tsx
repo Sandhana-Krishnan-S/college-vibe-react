@@ -11,7 +11,7 @@ const Faculties = () => {
       qualification: "Ph.D. in Computer Science, IIT Delhi",
       experience: "15 years",
       specialization: "Artificial Intelligence, Machine Learning",
-      email: "rajesh.kumar@siet.edu.in",
+      email: "rajesh.kumar@skct.edu.in",
       image: "/api/placeholder/300/300",
     },
     {
@@ -21,7 +21,7 @@ const Faculties = () => {
       qualification: "Ph.D. in ECE, IISc Bangalore",
       experience: "12 years",
       specialization: "VLSI Design, Embedded Systems",
-      email: "priya.sharma@siet.edu.in",
+      email: "priya.sharma@skct.edu.in",
       image: "/api/placeholder/300/300",
     },
     {
@@ -31,7 +31,7 @@ const Faculties = () => {
       qualification: "M.Tech, Ph.D. in Mechanical Engg.",
       experience: "18 years",
       specialization: "Thermal Engineering, CFD",
-      email: "amit.singh@siet.edu.in",
+      email: "amit.singh@skct.edu.in",
       image: "/api/placeholder/300/300",
     },
     {
@@ -41,7 +41,7 @@ const Faculties = () => {
       qualification: "Ph.D. in Structural Engineering",
       experience: "10 years",
       specialization: "Earthquake Engineering, Smart Materials",
-      email: "sunita.patel@siet.edu.in",
+      email: "sunita.patel@skct.edu.in",
       image: "/api/placeholder/300/300",
     },
     {
@@ -51,7 +51,7 @@ const Faculties = () => {
       qualification: "Ph.D. in Chemical Engineering",
       experience: "8 years",
       specialization: "Process Control, Green Chemistry",
-      email: "vikram.gupta@siet.edu.in",
+      email: "vikram.gupta@skct.edu.in",
       image: "/api/placeholder/300/300",
     },
     {
@@ -61,7 +61,7 @@ const Faculties = () => {
       qualification: "Ph.D. in Power Systems",
       experience: "20 years",
       specialization: "Renewable Energy, Smart Grids",
-      email: "anjali.verma@siet.edu.in",
+      email: "anjali.verma@skct.edu.in",
       image: "/api/placeholder/300/300",
     },
   ];

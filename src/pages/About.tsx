@@ -23,7 +23,7 @@ const About = () => {
       <section className="bg-gradient-to-br from-primary via-primary-light to-secondary py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center text-white">
-            <h1 className="text-4xl md:text-5xl font-bold mb-6">About SIET College</h1>
+            <h1 className="text-4xl md:text-5xl font-bold mb-6">About skct College</h1>
             <p className="text-xl max-w-3xl mx-auto leading-relaxed">
               Shaping Future Engineers Since 1995 - Where Innovation Meets Excellence in Technical Education
             </p>
@@ -39,7 +39,7 @@ const About = () => {
             <div>
               <h2 className="text-3xl font-bold text-primary mb-6">Our Legacy</h2>
               <p className="text-muted-foreground text-lg mb-6 leading-relaxed">
-                Sagar Institute of Engineering & Technology (SIET) was established in 1995 with a vision to provide 
+                Sagar Institute of Engineering & Technology (skct) was established in 1995 with a vision to provide 
                 world-class technical education to students from all backgrounds. Located in the heart of India, 
                 we have been at the forefront of engineering education for over 25 years.
               </p>

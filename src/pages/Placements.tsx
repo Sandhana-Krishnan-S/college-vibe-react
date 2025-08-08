@@ -24,7 +24,7 @@ const Placements = () => {
       package: "₹18 LPA",
       year: "2023",
       department: "Computer Science",
-      quote: "SIET provided me with excellent technical foundation and soft skills that helped me crack the Microsoft interview. The placement cell's support was outstanding."
+      quote: "skct provided me with excellent technical foundation and soft skills that helped me crack the Microsoft interview. The placement cell's support was outstanding."
     },
     {
       name: "Priya Gupta",
@@ -32,7 +32,7 @@ const Placements = () => {
       package: "₹22 LPA",
       year: "2023",
       department: "Electronics & Communication",
-      quote: "The hands-on projects and industry exposure at SIET prepared me well for the challenges at Amazon. Grateful for the amazing faculty guidance."
+      quote: "The hands-on projects and industry exposure at skct prepared me well for the challenges at Amazon. Grateful for the amazing faculty guidance."
     },
     {
       name: "Vikash Kumar",
@@ -40,7 +40,7 @@ const Placements = () => {
       package: "₹12 LPA",
       year: "2023",
       department: "Civil Engineering",
-      quote: "SIET's strong industry connections and practical approach to learning gave me the confidence to excel in my career at L&T."
+      quote: "skct's strong industry connections and practical approach to learning gave me the confidence to excel in my career at L&T."
     }
   ];
 
@@ -165,7 +165,7 @@ const Placements = () => {
           <div className="bg-gradient-to-r from-primary/10 to-secondary/10 rounded-lg p-8">
             <h2 className="text-2xl font-bold text-primary mb-4">Ready to Launch Your Career?</h2>
             <p className="text-muted-foreground mb-6 max-w-2xl mx-auto">
-              Join SIET and be part of our success story. Get placed in top companies with excellent packages.
+              Join skct and be part of our success story. Get placed in top companies with excellent packages.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button className="bg-gradient-to-r from-primary to-secondary text-white">

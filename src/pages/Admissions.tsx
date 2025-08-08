@@ -96,7 +96,7 @@ const Admissions = () => {
           <div className="text-center text-white">
             <h1 className="text-4xl md:text-5xl font-bold mb-6">Admissions 2024-25</h1>
             <p className="text-xl max-w-3xl mx-auto leading-relaxed">
-              Begin Your Engineering Journey with SIET - Applications Now Open
+              Begin Your Engineering Journey with skct - Applications Now Open
             </p>
             <div className="mt-8">
               <Button size="lg" className="bg-white text-primary hover:bg-gray-100 font-semibold">
@@ -279,7 +279,7 @@ const Admissions = () => {
               </Button>
             </div>
             <div className="mt-6 text-sm text-muted-foreground">
-              <p>📞 Helpline: +91-9876543210 | ✉️ admissions@siet.edu.in</p>
+              <p>📞 Helpline: +91-9876543210 | ✉️ admissions@skct.edu.in</p>
             </div>
           </div>
         </section>
