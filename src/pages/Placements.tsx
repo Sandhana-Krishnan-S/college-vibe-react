@@ -8,7 +8,7 @@ const Placements = () => {
     { icon: TrendingUp, title: "95%", subtitle: "Placement Rate", color: "text-green-600" },
     { icon: Users, title: "500+", subtitle: "Students Placed", color: "text-blue-600" },
     { icon: Building2, title: "150+", subtitle: "Partner Companies", color: "text-purple-600" },
-    { icon: Award, title: "₹25 LPA", subtitle: "Highest Package", color: "text-orange-600" },
+    { icon: Award, title: "₹44 LPA", subtitle: "Highest Package", color: "text-orange-600" },
   ];
 
   const topRecruiters = [
@@ -24,7 +24,7 @@ const Placements = () => {
       package: "₹18 LPA",
       year: "2023",
       department: "Computer Science",
-      quote: "skct provided me with excellent technical foundation and soft skills that helped me crack the Microsoft interview. The placement cell's support was outstanding."
+      quote: "SKCT provided me with excellent technical foundation and soft skills that helped me crack the Microsoft interview. The placement cell's support was outstanding."
     },
     {
       name: "Priya Gupta",
@@ -32,7 +32,7 @@ const Placements = () => {
       package: "₹22 LPA",
       year: "2023",
       department: "Electronics & Communication",
-      quote: "The hands-on projects and industry exposure at skct prepared me well for the challenges at Amazon. Grateful for the amazing faculty guidance."
+      quote: "The hands-on projects and industry exposure at SKCT prepared me well for the challenges at Amazon. Grateful for the amazing faculty guidance."
     },
     {
       name: "Vikash Kumar",
@@ -40,7 +40,7 @@ const Placements = () => {
       package: "₹12 LPA",
       year: "2023",
       department: "Civil Engineering",
-      quote: "skct's strong industry connections and practical approach to learning gave me the confidence to excel in my career at L&T."
+      quote: "SKCT's strong industry connections and practical approach to learning gave me the confidence to excel in my career at L&T."
     }
   ];
 
@@ -165,7 +165,7 @@ const Placements = () => {
           <div className="bg-gradient-to-r from-primary/10 to-secondary/10 rounded-lg p-8">
             <h2 className="text-2xl font-bold text-primary mb-4">Ready to Launch Your Career?</h2>
             <p className="text-muted-foreground mb-6 max-w-2xl mx-auto">
-              Join skct and be part of our success story. Get placed in top companies with excellent packages.
+              Join SKCT and be part of our success story. Get placed in top companies with excellent packages.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button className="bg-gradient-to-r from-primary to-secondary text-white">

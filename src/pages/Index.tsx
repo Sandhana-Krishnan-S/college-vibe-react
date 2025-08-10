@@ -25,7 +25,7 @@ const Index = () => {
 
   const quickLinks = [
     {
-      title: "About skct",
+      title: "About SKCT",
       description: "Learn about our legacy, mission, and values",
       icon: BookOpen,
       link: "/about",
@@ -88,16 +88,16 @@ const Index = () => {
         
         <div className="relative z-10 text-center text-white max-w-4xl mx-auto px-4">
           <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight">
-            Welcome to <span className="text-secondary">skct College</span>
+            Welcome to <span className="text-secondary">SKCT College</span>
           </h1>
           <p className="text-xl md:text-2xl mb-8 leading-relaxed">
-            Shaping Future Engineers Since 1995 • Excellence in Technical Education
+            Shaping Future Engineers Since 1985 • Excellence in Technical Education
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="bg-white text-primary hover:bg-gray-100 font-semibold">
               Apply Now
             </Button>
-            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-primary">
+            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white text-primary">
               Virtual Campus Tour
             </Button>
           </div>
@@ -125,7 +125,7 @@ const Index = () => {
       <section className="py-16 bg-muted/30">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold text-primary mb-4">Explore skct</h2>
+            <h2 className="text-3xl font-bold text-primary mb-4">Explore SKCT</h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
               Discover what makes us one of the leading engineering institutions in India
             </p>
@@ -183,7 +183,7 @@ const Index = () => {
         <div className="max-w-4xl mx-auto text-center px-4 sm:px-6 lg:px-8">
           <h2 className="text-3xl font-bold text-white mb-4">Ready to Start Your Engineering Journey?</h2>
           <p className="text-xl text-white/90 mb-8">
-            Join thousands of successful engineers who started their career at skct
+            Join thousands of successful engineers who started their career at SKCT
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link to="/admissions">
@@ -192,7 +192,7 @@ const Index = () => {
               </Button>
             </Link>
             <Link to="/contact">
-              <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-primary">
+              <Button size="lg" variant="outline" className="border-white text-white hover:bg-white text-primary">
                 Contact Us
               </Button>
             </Link>

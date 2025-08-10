@@ -48,9 +48,9 @@ const Contact = () => {
       icon: MapPin,
       title: "Address",
       details: [
-        "Sagar Institute of Engineering & Technology",
-        "Bhopal-Indore Highway, Bhopal",
-        "Madhya Pradesh - 462041, India"
+        "Sri Krishna College of Technology",
+        "Kovaipudur Coimbatore",
+        "Tamilnadu - 641105, India"
       ]
     },
     {
@@ -97,7 +97,7 @@ const Contact = () => {
       <section className="bg-gradient-to-br from-primary via-primary-light to-secondary py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center text-white">
-            <h1 className="text-4xl md:text-5xl font-bold mb-6">Contact Us</h1>
+            <h1 className="text-4xl md:text-5xl font-bold mb-6"></h1>
             <p className="text-xl max-w-3xl mx-auto leading-relaxed">
               Get in touch with us for any queries regarding admissions, academics, or general information
             </p>

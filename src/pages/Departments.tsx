@@ -9,7 +9,7 @@ const Departments = () => {
       icon: Cpu,
       description: "Leading-edge curriculum in AI, ML, software development, and emerging technologies.",
       intake: "120",
-      established: "1995",
+      established: "1985",
     },
     {
       name: "Electronics & Communication Engineering",
@@ -23,7 +23,7 @@ const Departments = () => {
       icon: Settings,
       description: "Comprehensive program covering design, manufacturing, thermal, and automotive engineering.",
       intake: "120",
-      established: "1995",
+      established: "1985",
     },
     {
       name: "Civil Engineering",
